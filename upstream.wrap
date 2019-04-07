@@ -1,0 +1,4 @@
+[wrap-git]
+directory = eranpeer-fakeit-2.0.5
+url = https://github.com/eranpeer/FakeIt.git
+revision = 2.0.5
